@@ -3,7 +3,7 @@
 
 # Data Processing
 pandas>=1.5.0
-numpy==1.26.0
+numpy
 
 # Machine Learning
 scikit-learn>=1.0.0
